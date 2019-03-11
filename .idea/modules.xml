@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mjbor.iml" filepath="$PROJECT_DIR$/.idea/modules/mjbor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mjbor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mjbor_main.iml" group="mjbor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mjbor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mjbor_test.iml" group="mjbor" />
+    </modules>
+  </component>
+</project>
